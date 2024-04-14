@@ -6,7 +6,7 @@ A resume builder app is a software application designed to help users create a p
 
 Resume builder apps are a powerful tool for anyone entering the job market or seeking to advance their career. They not only simplify the process of creating a resume but also enhance the quality of the final product. By leveraging such technology, job seekers can ensure that their first impression with potential employers is as strong as possible, increasing their chances of achieving their career objectives.
 
-Go To Live Link:- https://resume-builder-three-rho.vercel.app/
+Go To Live Link:- https://resume-builder-Shekhar-rho.vercel.app/
 Technologies Used:-
 HTML
 CSS
