@@ -2,11 +2,11 @@
 Project: Resume Builder
 
 Description:
-This resume builder app is a software application designed to help users create a professional resume with ease. These apps provide tools, templates, and guidelines that streamline the process of drafting and formatting a resume, which is crucial for job applications. They cater to users who may not have extensive graphic design skills or detailed knowledge of how to craft an effective resume.
+A resume builder app is a software application designed to help users create a professional resume with ease. These apps provide tools, templates, and guidelines that streamline the process of drafting and formatting a resume, which is crucial for job applications. They cater to users who may not have extensive graphic design skills or detailed knowledge of how to craft an effective resume.
 
 Resume builder apps are a powerful tool for anyone entering the job market or seeking to advance their career. They not only simplify the process of creating a resume but also enhance the quality of the final product. By leveraging such technology, job seekers can ensure that their first impression with potential employers is as strong as possible, increasing their chances of achieving their career objectives.
 
-Go To Live Link:- https://resume-builder-shanu.vercel.app/
+Go To Live Link:- https://resume-builder-three-rho.vercel.app/
 Technologies Used:-
 HTML
 CSS
@@ -16,13 +16,20 @@ Material-UI
 React Icons
 Redux
 
-Features:-
-User-friendly Interface: The application provides an intuitive user interface for creating and customizing resumes.
-Multiple Templates: Users can choose from a variety of predefined resume templates to suit their preferences and needs.
-Live Preview: Users can see a real-time preview of their resume as they make changes, facilitating easier customization.
-Customization Options: The application offers various customization options such as changing fonts, colors, layout, etc., to tailor resumes according to individual preferences.
-PDF Generation: Users can generate their resumes in PDF format with just a click, making it easy to download and share professionally formatted resumes.
-Responsive Design: The application is designed to be responsive, ensuring optimal user experience across different devices and screen sizes.
+Key Features of Resume Builder Apps
+Templates: Most resume builder apps offer a variety of templates that cater to different industries and job roles. These templates are designed to meet the expectations of employers and recruiters, focusing on readability, professional appearance, and appropriate layout.
+
+Step-by-Step Guidance: These apps typically guide users through the process of creating a resume, asking for information about their professional history, education, skills, and certifications. This ensures that all relevant information is included and properly organized.
+
+Customization Options: Users can often customize fonts, colors, and layout options to personalize their resumes and stand out from the crowd. This level of customization allows the creation of unique resumes that still maintain professional standards.
+
+Auto-Formatting: One of the biggest advantages of using a resume builder app is its ability to automatically format text and adjust layouts to ensure the final document is clean and visually appealing, without any awkward spacing or alignment issues.
+
+Tips and Examples: Many apps provide helpful tips and examples of effective resumes. These resources are invaluable for understanding what makes a resume effective and how to articulate one’s achievements and qualifications compellingly.
+
+Export Options: After creating a resume, users can typically export it in various formats such as PDF or Word document. This makes it easy to submit electronically or print out.
+
+Mobility: Many resume builder apps are available on smartphones and tablets, allowing users to work on their resumes on-the-go. This is especially useful for quick updates and applications.
 How to Run:
 
 Clone the repository to your local machine.
